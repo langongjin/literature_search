@@ -20,6 +20,15 @@ After installing the dependencies, use `jupyter notebook literature_analysis.ipy
 query = 'title-abs-key("evolving neural network" AND ("deep learning" OR "object recognition"))' 
 ```
 
+# Error messages
+
+T see more [error messages](https://pybliometrics.readthedocs.io/en/stable/tips.html#error-messages)
+
+# Migration Guide from scopus to pybliometrics
+The pybliometrics.ipynb are the new code based on pybliometrics. To see more about [Migration Guide from scopus to pybliometrics](https://pybliometrics.readthedocs.io/en/stable/tips.html)
+
+
+
 # Citation
 
 Please cite the literatures below if you use our code.
